@@ -1,9 +1,0 @@
-# Last Modified: Tue Mar 14 00:42:18 2017
-#include <tunables/global>
-
-/opt/Insomnia/insomnia flags=(complain) {
-  #include <abstractions/base>
-
-  /opt/Insomnia/insomnia mr,
-
-}
